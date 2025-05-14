@@ -29,7 +29,7 @@ The design is fully responsive and optimized for both mobile and desktop screen 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Randy-22/qr-code-component)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -88,5 +88,5 @@ Although this is a simple static project, there are several areas I plan to expl
 
 ## Author
 
-- Website - [Randy Sekyere](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- github - [Randy Sekyere](https://github.com/Randy-22)
+- Frontend Mentor - [@Randy-22](https://www.frontendmentor.io/profile/Randy-22)
