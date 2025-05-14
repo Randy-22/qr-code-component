@@ -8,6 +8,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [Screenshot](#screenshot)
+      - [Mobile design](#mobile-design)
+      - [Desktop design](#desktop-design)
     - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
@@ -24,10 +26,12 @@ The design is fully responsive and optimized for both mobile and desktop screen 
 
 ### Screenshot
 
-- A mobile design
-  ![Mobile Design](designs/mobile_design.png)
+#### Mobile design
 
-- A desktop design
+![Mobile Design](designs/mobile_design.png)
+
+#### Desktop design
+
   ![Desktop Design](designs/mobile_design.png)
 
 ### Links
