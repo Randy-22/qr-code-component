@@ -24,7 +24,10 @@ The design is fully responsive and optimized for both mobile and desktop screen 
 
 ### Screenshot
 
+- A mobile design
 ![Mobile Design](designs/mobile_design.png)
+
+- A desktop design
 ![Desktop Design](designs/mobile_design.png)
 
 ### Links
