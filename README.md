@@ -36,8 +36,8 @@ The design is fully responsive and optimized for both mobile and desktop screen 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Randy-22/qr-code-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Randy-22/qr-code-component](https://github.com/Randy-22/qr-code-component)
+- Live Site URL: [https://randy-22.github.io/qr-code-component/](https://randy-22.github.io/qr-code-component/)
 
 ## My process
 
